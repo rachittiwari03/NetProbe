@@ -23,6 +23,6 @@ Note: For UNIX-based systems, run the script as root (use sudo) for optimal func
 
 # Getting Started:
 
-1. Clone the repository: git clone https://github.com/rachittiwari03/NetProbe
+1. Clone the repository: "git clone https://github.com/rachittiwari03/NetProbe"
 2. Navigate to the project directory: cd netprobe
 3. Run the scanner: python3 scanner.py
