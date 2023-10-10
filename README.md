@@ -3,12 +3,12 @@ NetProbe is a lightweight network scanning tool built with Python and Scapy. It 
 
 # Features:
 
-# ARP Scan:
+# 1. ARP Scan:
 
 1. Discover devices on the local network by sending ARP requests.
 2. Collect ARP replies to map IP addresses to MAC addresses.
 
-# TCP Scan:
+# 2. TCP Scan:
 
 1. Identify open ports by sending TCP SYN packets to specified ports.
 2. Collect SYN+ACK replies to determine accessible ports.
